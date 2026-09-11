@@ -4,7 +4,7 @@ An interactive Excel dashboard analyzing customer characteristics associated wit
 
 ## Dashboard Preview
 
-[View the Excel Project Workbook](Training Project Excel.xlsx)
+[Training Project Excel.xlsx]
 
 > The workbook includes the raw data, cleaned working sheet, PivotTables, and interactive dashboard.
 
