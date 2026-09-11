@@ -5,6 +5,7 @@ An interactive Excel dashboard analyzing customer characteristics associated wit
 ## Dashboard Preview
 
 [View the Excel Project Workbook](Training_Project_Excel.xlsx)
+![Dashboard](Bikesdashboard.jpg)
 
 > The workbook includes the raw data, cleaned working sheet, PivotTables, and interactive dashboard.
 
@@ -172,7 +173,7 @@ Training Project Excel.xlsx
 
 ## File
 
-- `Training Project Excel.xlsx` — Full Excel workbook containing the raw data, cleaned working sheet, PivotTables, and interactive dashboard.
+- `Training_Project_Excel.xlsx` — Full Excel workbook containing the raw data, cleaned working sheet, PivotTables, and interactive dashboard.
 
 ## Author
 
@@ -180,5 +181,4 @@ Training Project Excel.xlsx
 
 Aspiring Data Analyst with experience in Excel, SQL, Tableau, dashboard design, data cleaning, data visualization, and real-estate data research.
 
-- GitHub: [mohabadel10](https://github.com/mohabadel10)
-- Project Repository: [Bike Buyers Sales Analysis Dashboard](https://github.com/mohabadel10/Training-Project-Excel)
+- GitHub: https://github.com/mohabadel10
