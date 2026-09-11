@@ -4,7 +4,7 @@ An interactive Excel dashboard analyzing customer characteristics associated wit
 
 ## Dashboard Preview
 
-[Training Project Excel.xlsx]
+[View the Excel Project Workbook](Bikesdashboard.jpg)
 
 > The workbook includes the raw data, cleaned working sheet, PivotTables, and interactive dashboard.
 
