@@ -177,8 +177,7 @@ Training Project Excel.xlsx
 
 ## Author
 
-**Mohab Adel**
-
-Aspiring Data Analyst with experience in Excel, SQL, Tableau, dashboard design, data cleaning, data visualization, and real-estate data research.
+Mohab Adel
 
 - GitHub: https://github.com/mohabadel10
+- LinkedIn: https://www.linkedin.com/in/mohab-adel10m/
